@@ -20,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/Mortaza-Karimi/blog-client-with-node/issues"
   },
-  "homepage": "https://github.com/Mortaza-Karimi/blog-client-with-node#readme"
+  "homepage": "https://github.com/Mortaza-Karimi/blog-client-with-node#readme",
+  "dependencies": {
+    "axios": "^0.21.3",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
 }
